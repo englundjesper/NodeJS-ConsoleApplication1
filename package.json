@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-consoleapplication-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "node": "^15.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/englundjesper/NodeJS-ConsoleApplication.git"
+  },
+  "author": "Jesper Englund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/englundjesper/NodeJS-ConsoleApplication/issues"
+  },
+  "homepage": "https://github.com/englundjesper/NodeJS-ConsoleApplication#readme"
+}
